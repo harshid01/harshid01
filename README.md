@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harshid Panchal — an aspiring Software Developer and Full Stack Development student passionate about building modern, scalable, and user-friendly web applications.<br><br>I completed my Bachelor of Science (B.Sc.) in Computer Applications & Information Technology from Hemchandracharya North Gujarat University, Patan (2022–2026), where I gained hands-on experience in web development, database management, and software application development.<br><br>Currently, I am pursuing a Master of Science (M.Sc.) in Information Technology at SKIPS University, Ahmedabad, with a dual specialization in Data Science & Artificial Intelligence and Full Stack Development.
+Hi, I'm Harshid Panchal — an aspiring Software Developer and Full Stack Development student passionate about building modern, scalable, and user-friendly web applications.<br><br>I completed my Bachelor of Science (B.Sc.) in Computer Applications & Information Technology from Hemchandracharya North Gujarat University, Patan (2023–2026), where I gained hands-on experience in web development, database management, and software application development.<br><br>Currently, I am pursuing a Master of Science (M.Sc.) in Information Technology at SKIPS University, Ahmedabad, with a dual specialization in Data Science & Artificial Intelligence and Full Stack Development.
 
 
 ## 🌐 Socials:
